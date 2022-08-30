@@ -2,6 +2,7 @@ configuration:
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
   #projects_history_folder: "history"
+  #新的内容
 categories:
   - category: "ml-frameworks"
     title: "Machine Learning Frameworks"
